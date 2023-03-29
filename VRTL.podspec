@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
     #s.swift_version = "5"
     s.ios.deployment_target  = '15.0'
 
-    s.dependency  'Alamofire'
+    s.dependency 'Alamofire'
     s.dependency 'Onfido'
     s.dependency 'SnapKit'
     s.dependency 'AEOTPTextField'
