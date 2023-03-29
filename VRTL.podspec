@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "VRTL"
-    s.version      = "1.0.2"
+    s.version      = "1.0.3"
     s.summary      = "A brief description of VRTLSDK project."
     # s.static_framework    = true
     s.description  = <<-DESC
