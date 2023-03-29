@@ -1,0 +1,11 @@
+framework module VRTL {
+  umbrella header "VRTL.h"
+
+  export *
+  module * { export * }
+}
+
+module VRTL.Swift {
+  header "VRTL-Swift.h"
+  requires objc
+}

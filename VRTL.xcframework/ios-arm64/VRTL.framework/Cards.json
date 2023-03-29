@@ -1,0 +1,150 @@
+{
+  "after": "MjAxOC0wMS0wMlQxOTo0MjozMi45ODda",
+  "has_more": true,
+  "data": [
+    {
+      "id": "d089a80f-e641-4045-8a80-54841e4a7458",
+      "user_id": "d089a80f-e641-4045-8a80-54841e4a7458",
+      "card_type": "PHYSICAL",
+      "card_product_id": "g189a80f-e641-4045-8a80-54841e4a1234",
+      "reference_card_id": "d089a80f-e641-4045-8a80-54841e4a7458",
+      "bulk_issuance_id": "d089a80f-e641-4045-8a80-54841e4a7458",
+      "name_on_card": "John Smith",
+      "shipping_details": {
+        "method": "COURIER",
+        "return_address": {
+          "first_name": "John",
+          "middle_name": "Anthony",
+          "last_name": "Smith",
+          "mobile": "+551185249635",
+          "address_line1": "Flat 1904",
+          "address_line2": "Glass Tower",
+          "city": "New York City",
+          "state": "New York",
+          "country": "USA",
+          "postal_code": "12345"
+        },
+        "shipping_address": {
+          "first_name": "John",
+          "middle_name": "Anthony",
+          "last_name": "Smith",
+          "mobile": "+551185249635",
+          "address_line1": "Flat 1904",
+          "address_line2": "Glass Tower",
+          "city": "New York City",
+          "state": "New York",
+          "country": "USA",
+          "postal_code": "12345"
+        }
+      },
+      "status": "INACTIVE",
+      "status_reason": "I0",
+      "fulfillment_status": "CREATED",
+      "bin": "123456",
+      "last_four": "5789",
+      "expiry_date": "01/2025",
+      "pin_retries": 0,
+      "proxy_number": "0000367466",
+      "created": "2018-01-02T19:42:32.987Z",
+      "modified": "2018-01-02T19:42:32.987Z",
+      "extra_embossing_line": "CLASSIC",
+      "card_soft_expiry": "01/2025"
+    },
+    {
+      "id": "d089a80f-e641-4045-8a80-54841e4a7458",
+      "user_id": "d089a80f-e641-4045-8a80-54841e4a7458",
+      "card_type": "PHYSICAL",
+      "card_product_id": "g189a80f-e641-4045-8a80-54841e4a1234",
+      "reference_card_id": "d089a80f-e641-4045-8a80-54841e4a7458",
+      "bulk_issuance_id": "d089a80f-e641-4045-8a80-54841e4a7458",
+      "name_on_card": "John Smith",
+      "shipping_details": {
+        "method": "COURIER",
+        "return_address": {
+          "first_name": "John",
+          "middle_name": "Anthony",
+          "last_name": "Smith",
+          "mobile": "+551185249635",
+          "address_line1": "Flat 1904",
+          "address_line2": "Glass Tower",
+          "city": "New York City",
+          "state": "New York",
+          "country": "USA",
+          "postal_code": "12345"
+        },
+        "shipping_address": {
+          "first_name": "John",
+          "middle_name": "Anthony",
+          "last_name": "Smith",
+          "mobile": "+551185249635",
+          "address_line1": "Flat 1904",
+          "address_line2": "Glass Tower",
+          "city": "New York City",
+          "state": "New York",
+          "country": "USA",
+          "postal_code": "12345"
+        }
+      },
+      "status": "INACTIVE",
+      "status_reason": "I0",
+      "fulfillment_status": "CREATED",
+      "bin": "123456",
+      "last_four": "5789",
+      "expiry_date": "01/2025",
+      "pin_retries": 0,
+      "proxy_number": "0000367466",
+      "created": "2018-01-02T19:42:32.987Z",
+      "modified": "2018-01-02T19:42:32.987Z",
+      "extra_embossing_line": "CLASSIC",
+      "card_soft_expiry": "01/2025"
+    },
+    {
+      "id": "d089a80f-e641-4045-8a80-54841e4a7458",
+      "user_id": "d089a80f-e641-4045-8a80-54841e4a7458",
+      "card_type": "PHYSICAL",
+      "card_product_id": "g189a80f-e641-4045-8a80-54841e4a1234",
+      "reference_card_id": "d089a80f-e641-4045-8a80-54841e4a7458",
+      "bulk_issuance_id": "d089a80f-e641-4045-8a80-54841e4a7458",
+      "name_on_card": "John Smith",
+      "shipping_details": {
+        "method": "COURIER",
+        "return_address": {
+          "first_name": "John",
+          "middle_name": "Anthony",
+          "last_name": "Smith",
+          "mobile": "+551185249635",
+          "address_line1": "Flat 1904",
+          "address_line2": "Glass Tower",
+          "city": "New York City",
+          "state": "New York",
+          "country": "USA",
+          "postal_code": "12345"
+        },
+        "shipping_address": {
+          "first_name": "John",
+          "middle_name": "Anthony",
+          "last_name": "Smith",
+          "mobile": "+551185249635",
+          "address_line1": "Flat 1904",
+          "address_line2": "Glass Tower",
+          "city": "New York City",
+          "state": "New York",
+          "country": "USA",
+          "postal_code": "12345"
+        }
+      },
+      "status": "INACTIVE",
+      "status_reason": "I0",
+      "fulfillment_status": "CREATED",
+      "bin": "123456",
+      "last_four": "5789",
+      "expiry_date": "01/2025",
+      "pin_retries": 0,
+      "proxy_number": "0000367466",
+      "created": "2018-01-02T19:42:32.987Z",
+      "modified": "2018-01-02T19:42:32.987Z",
+      "extra_embossing_line": "CLASSIC",
+      "card_soft_expiry": "01/2025"
+    }
+  ]
+}

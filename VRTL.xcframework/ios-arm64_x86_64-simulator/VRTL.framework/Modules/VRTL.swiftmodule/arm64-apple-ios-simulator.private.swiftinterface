@@ -1,0 +1,46 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
+// swift-module-flags: -target arm64-apple-ios16.1-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name VRTL
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AEOTPTextField
+import Alamofire
+import Combine
+import Foundation
+import Onfido
+import SnapKit
+import Swift
+import SwiftUI
+import UIKit
+@_exported import VRTL
+import WebKit
+import _Concurrency
+import _StringProcessing
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class VRTLViewController : UIKit.UIViewController {
+  @objc deinit
+}
+public struct IsoCountryInfo {
+  public let name: Swift.String
+  public let numeric: Swift.String
+  public let alpha2: Swift.String
+  public let alpha3: Swift.String
+  public let calling: Swift.String
+  public let currency: Swift.String
+  public let continent: Swift.String
+  public var fractionDigits: Swift.Int
+  public static let allCountries: [VRTL.IsoCountryInfo]
+}
+@_hasMissingDesignatedInitializers public class VRTLSDK {
+  public struct Configuration {
+    public init(baseURLString: Swift.String, token: Swift.String, userID: Swift.String, deviceID: Swift.String)
+  }
+  public static func start(on window: UIKit.UIViewController, theme: VRTL.VRTLTheme, configuration: VRTL.VRTLSDK.Configuration)
+  @objc deinit
+}
+public struct VRTLTheme {
+  public static func generic() -> VRTL.VRTLTheme
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class VRTLHomeViewController : VRTL.VRTLViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) public func startOnfidoFlow(with token: Swift.String)
+  @objc deinit
+}
